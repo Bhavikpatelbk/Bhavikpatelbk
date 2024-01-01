@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Bhavikpatelbk
+- 👀 I’m interested in HR And Programming Side...
+- 🌱 I’m currently learning C Programming...
+- 📫 How to reach me ...
+
+<!---
+Bhavikpatelbk/Bhavikpatelbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
